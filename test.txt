@@ -1,0 +1,29 @@
+<!--<table border="5" width="40%" cellpadding="10px" cellspacing="20px">-->
+<!--<table border="2" width="40%">
+<tr>
+<th>Prénom</th>
+<th>Nom</th>
+</tr>
+<tr valign="10px">
+<td>yassine</td>
+<td>farhi</td>
+</tr>
+<tr>
+<td colspan="2">yassine</td>
+<td>farhi</td>
+</tr>
+<tr>
+<td>yassine</td>
+<td>farhi</td>
+</tr>
+<tr>
+<td rowspan="2">said</td>
+<td>xx</td>
+</tr>
+<tr>
+<td >yyyy</td>
+<td>NNN</td>
+</tr>
+</table>
+-->
+<!---->
